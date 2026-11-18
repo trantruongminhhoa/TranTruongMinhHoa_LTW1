@@ -2,11 +2,11 @@
 
 echo "Tran Truong Minh Hoa","13/01/2007","2125110110"
 
-@hoten="Tran Truong Minh Hoa"
-@mssv="2125110110"
-@sdt="0123456789"
-@ngaysinh="13/01/2007"
-echo @hoten, @mssv, @sdt, @ngaysinh
+$hoten="Tran Truong Minh Hoa"
+$mssv="2125110110"
+$sdt="0123456789"
+$ngaysinh="13/01/2007"
+echo $hoten, $mssv, $sdt, $ngaysinh
 
 HOST="something"
 DATABASE="some database"
